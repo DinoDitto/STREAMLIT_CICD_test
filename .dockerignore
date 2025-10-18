@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.DS_Store
+.env
+.env.*
+*secrets*
+.idea
+.vscode
