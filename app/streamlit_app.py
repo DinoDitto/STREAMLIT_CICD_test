@@ -13,6 +13,6 @@ st.code({
     "K_REVISION": os.getenv("K_REVISION", ""),
 }, language="json")
 
-st.subheader("互動測試11")
+st.subheader("互動測試2")
 name = st.text_input("你的名字", "dino")
 st.success(f"Hello, {name}! 🚀") 
