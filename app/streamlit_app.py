@@ -5,6 +5,7 @@ st.set_page_config(page_title="Cloud Run CICD Test", page_icon="🚀")
 st.title("✅ Cloud Run CI/CD Test (Streamlit)")
 st.write("如果你看到這頁，代表 Docker + Cloud Build + Cloud Run 自動部署成功！")
 st.write("測試更新成功2025 10 22")
+st.write("測試更新成功2025 10 22_2")
 
 st.subheader("環境資訊")
 st.code({
